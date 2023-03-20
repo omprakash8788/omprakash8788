@@ -52,14 +52,21 @@ Here are some ideas to get you started:
 
 
  <p align="center">
-
  
- ![vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=omprakash8788&show_icons=true&locale=en&theme=tokyonight) | 
-</p>
+
+
+ ![omprakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=omprakash8788&show_icons=true&locale=en&theme=tokyonight) |
+  <!-- ![omprakash's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omprakash8788&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
+| :---: | :---: | -->
+  
+
 
 
 <p align="center">
-  <a href="https://github.com/omprakash8788/github-readme-stats"><img alt="vaibhav porwal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omprakash8788&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="#">
+        <img width="400px" height="200px" alt="om's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omprakash8788&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=omprakash8788&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+  </a>
 
 </p>
 
