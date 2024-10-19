@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m MERN Stack Developer
 
-- 💬 Ask me about **HTML , CSS, JS, ReactJS, NodeJS, MongooseDB, Express, Tailwind CSS, DSA, TypeScript, API, Ruby on Rail**
+- 💬 Ask me about **HTML , CSS, JS, ReactJS, NodeJS, MongoDB, Express, Tailwind CSS, DSA, TypeScript, API, Ruby on Rail**
 
 - 📫 How to reach me: **omprakashkumar552@gmail.com**
 
