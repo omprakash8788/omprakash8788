@@ -10,8 +10,6 @@
 - 🌱 I’m a **MERN Stack Developer**.
 - 💡 Always exploring new technologies and frameworks.
 - 🔥 Open Source enthusiast — love collaborating on impactful projects.
-- 📚 Currently diving into **Deep Learning, Machine Learning, and LLMs**.
-- 🎯 Working on **RAG-based Wiki** and **Real-time Calling App**.
 - 💬 Ask me about **HTML , CSS, JS, ReactJS, NodeJS, MongoDB, Express, Tailwind CSS, DSA, TypeScript, APIs, Ruby on Rails**.
 
 📫 How to reach me: **omprakashkumar552@gmail.com**
