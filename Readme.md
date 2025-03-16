@@ -7,6 +7,8 @@
   ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
 </div>
 
+![Coding Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer+%7C+MERN+Stack+Specialist;Building+cool+stuff+with+React+%26+Node.js!;Let's+connect+and+collaborate!+%F0%9F%9A%80)
+
 
 <div align="left">
    <a href="#">
@@ -19,8 +21,12 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m MERN Stack Developer
+  
+- 💡 Always exploring new technologies and frameworks.
+  
+- 🔥 Open Source enthusiast — love collaborating on impactful projects.
 
-- 💬 Ask me about **HTML , CSS, JS, ReactJS, NodeJS, MongoDB, Express, Tailwind CSS, DSA, TypeScript, API, Ruby on Rail**
+- 💬 Ask me about **HTML , CSS, JS, ReactJS, NodeJS, MongoDB, Express, Tailwind CSS, DSA, TypeScript, API, Ruby on Rail**.
 
 - 📫 How to reach me: **omprakashkumar552@gmail.com**
 
