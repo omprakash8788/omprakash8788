@@ -10,8 +10,6 @@
 - 🌱 I’m a **MERN Stack Developer**.
 - 💡 Always exploring new technologies and frameworks.
 - 🔥 Open Source enthusiast — love collaborating on impactful projects.
-- 📚 Currently diving into **Deep Learning, Machine Learning, and LLMs**.
-- 🎯 Working on **RAG-based Wiki** and **Real-time Calling App**.
 - 💬 Ask me about **HTML , CSS, JS, ReactJS, NodeJS, MongoDB, Express, Tailwind CSS, DSA, TypeScript, APIs, Ruby on Rails**.
 
 📫 How to reach me: **omprakashkumar552@gmail.com**
@@ -26,7 +24,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -45,11 +42,7 @@
 
 ---
 
-## 🏗️ Featured Projects
 
-🚀 **[RAG Wiki App](#)** - Built with React, Node, MongoDB — enhanced with Retrieval-Augmented Generation for smarter search.  
-🔧 **[Real-time Calling App](#)** - WebRTC-based app for instant voice/video calls, using React, Node, and MongoDB.  
-📲 **[Country List npm Package](#)** - Lightweight, fast, and customizable npm package to fetch country data.  
 
 ---
 
