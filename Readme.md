@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Omprakash </h1>
-<h3 align="center">I'm a passionate Full Stack Web Developer.</h3>
+<h3 align="center">**  💻 Frontend Developer** | 💻 **MERN Stack Specialist** | 🔥 **Open Source Contributor** </h3>
 
 <div align="left" width="150">
   ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
