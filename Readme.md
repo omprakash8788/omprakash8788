@@ -29,9 +29,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **HTML , CSS, JS, ReactJS, NodeJS, MongoDB, Express, Tailwind CSS, DSA, TypeScript, API, Ruby on Rail**.
 
 - 📫 How to reach me: **omprakashkumar552@gmail.com**
-
-- 📄 Check [Resume](https://drive.google.com/drive/folders/1vaSj4hUpLhdvNawx9wCMYS3iqZuX2gdL?usp=share_link)
-
+  
 - 📄 Know more about me and my work [Portfolio](https://clever-kangaroo-984dea.netlify.app//)
 
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
