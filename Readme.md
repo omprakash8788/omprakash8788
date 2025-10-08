@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
 - 🔥 Open Source enthusiast — love collaborating on impactful projects.
 
-- 💬 Ask me about **HTML , CSS, JS, ReactJS, NodeJS, MongoDB, Express, Tailwind CSS, DSA, TypeScript, API, Ruby on Rail**.
+- 💬 Ask me about **HTML , CSS, JS, NextJS, ReactJS, LLM, Laingchain.JS, AI Intergration, NodeJS, MongoDB, Express, Tailwind CSS, DSA, TypeScript, API, Ruby on Rail**.
 
 - 📫 How to reach me: **omprakashkumar552@gmail.com**
   
