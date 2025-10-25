@@ -34,22 +34,6 @@ Here are some ideas to get you started:
 
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h2 align='center'> 🔍: Connect with me</h2>
-
-<h2 align='center'> 📦 My Published NPM Package</h2>
-
-<p align="center">
-  <a href="https://www.npmjs.com/package/@omprakashkumar/countries-flag" target="_blank">
-    <img src="https://img.shields.io/npm/v/@omprakashkumar/countries-flag?color=brightgreen&label=Countries%20Flag%20Library&logo=npm" alt="npm version" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Install:</strong>
-</p>
-
-```bash
-npm i @omprakashkumar/countries-flag
-
 <p align="center">
 <a href="https://www.linkedin.com/in/omprkash-kumar-94a82012b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/omprakashkumar552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hacker" height="30" width="40" /></a><a href="https://www.hackerrank.com/omprakashkumar52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="om" height="30" width="40" /></a>
