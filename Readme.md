@@ -56,8 +56,27 @@ Here are some ideas to get you started:
  <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
  <br />
+<h2 align='left'> 📦 My Published NPM Package</h2>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/@omprakashkumar/countries-flag" target="_blank">
+    <img src="https://img.shields.io/npm/v/@omprakashkumar/countries-flag?color=brightgreen&logo=npm&label=countries-flag" />
+  </a>
+</p>
+
+<p align="center">
+<strong>Install via npm:</strong>
+</p>
+<p align="center">
+<strong>npm i @omprakashkumar/countries-flag</strong>
+</p>
+
+
+
+ <br/>
 
  <h2 align='center'>📊 My Github Stats</h2>
+ 
 
 
  <p align="center">
