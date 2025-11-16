@@ -99,11 +99,15 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="#">
-        <img width="400px" height="200px" alt="om's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omprakash8788&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=omprakash8788&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+    <img width="400px" height="200px" alt="om's Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=omprakash8788&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
+    />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=omprakash8788&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true"
+    />
   </a>
-
 </p>
+
 
 <p align="center">
     <a href="https://github.com/omprakash8788/github-readme-streak-stats">
